@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RuView</string>
+    <string name="app_title">π RuView</string>
+    <string name="status_offline">○ Offline</string>
+    <string name="tab_live">JONLI</string>
+    <string name="tab_vitals">HAYOTIY</string>
+    <string name="tab_signal">SIGNAL</string>
+    <string name="tab_settings">SOZLAMA</string>
+    <string name="label_confidence">ISHONCH</string>
+    <string name="label_persons">ODAMLAR</string>
+    <string name="label_signal">SIGNAL</string>
+    <string name="label_nodes">TUGUNLAR</string>
+    <string name="label_avg_rssi">O\'RT RSSI</string>
+    <string name="label_rssi_history">RSSI TARIXI</string>
+    <string name="presence_absent">○ YO\'Q</string>
+    <string name="label_breathing">NAFAS OLISH</string>
+    <string name="label_heart_rate">YURAK URISHI</string>
+    <string name="label_posture">HOLAT</string>
+    <string name="label_raw_features">CSI XOMASHYO</string>
+    <string name="label_motion_power">Harakat kuchi</string>
+    <string name="label_breath_power">Nafas kuchi</string>
+    <string name="label_variance">CSI dispersiya</string>
+    <string name="label_entropy">Spektral entropiya</string>
+    <string name="not_detected">Aniqlanmadi</string>
+    <string name="wifi_signal_field">WiFi SIGNAL MAYDONI</string>
+    <string name="color_scale">RANG SHKALASI</string>
+    <string name="scale_low">Past</string>
+    <string name="scale_high">Yuqori</string>
+    <string name="label_connection">ULANISH</string>
+    <string name="label_server_url">Server URL</string>

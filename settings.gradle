@@ -1,0 +1,2 @@
+rootProject.name = "RuView"
+include ':app'
